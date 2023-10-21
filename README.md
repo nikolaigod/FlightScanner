@@ -1,5 +1,5 @@
 # FlightScanner
-The Flight Scanner is a Java project that serves as a flight management system. It allows users to add or remove flights between locations, search for flights sorted by available seats or destination, and find the shortest path between two destinations. This README provides an overview of the project, instructions for running it, and guidance on using its features.
+The Flight Scanner is a Java project that serves as a flight management system. It allows users to add or remove flights between locations, search for flights sorted by available seats or destination, and find the shortest path between two destinations. This README provides an overview of the project, instructions for running it, and guidance on using its features. It demonstrated the usage of collections in Java.
 Features
 
 • Flight Management: Add or remove flights between locations.
